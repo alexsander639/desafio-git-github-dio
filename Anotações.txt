@@ -1,0 +1,7 @@
+Link para download do git: https://git-scm.com
+
+
+Comando para limpar o histórico do git bash: clear
+
+
+Comando para clona um ropositório remoto para a máquina local: git clone (link do repositório)
